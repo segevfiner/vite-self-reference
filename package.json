@@ -2,7 +2,7 @@
   "name": "vite-self-reference",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "MWE of Vite self-referencing issue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
